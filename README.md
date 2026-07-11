@@ -21,10 +21,6 @@ End-to-end detection stack â€” Wazuh 4.12, Sysmon (sysmon-modular config), 
 Compromised a segmented network (DMZ â†’ Corporate â†’ Restricted), exploiting six vulnerabilities including PHP RCE, SSTI, and IDOR, pivoting via Chisel SOCKS tunnelling.
 `PHP RCE` `SSTI` `IDOR` `Pivoting`
 
-**Gesture-Controlled Toolkit**
-Python + OpenCV + MediaPipe build featuring Air Canvas, an Invisible Cloak, a drowsiness detector, and an emotion classifier.
-`Python` `OpenCV` `MediaPipe`
-
 ## Stack
 
 `Python` `Wazuh` `Sysmon` `TheHive` `Docker` `Nmap` `OpenVAS` `Metasploit` `Cisco Packet Tracer` `FTK Imager` `Autopsy`
