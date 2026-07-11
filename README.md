@@ -35,7 +35,7 @@ Designed a multi-site network in Cisco Packet Tracer, covering VLANs, EtherChann
 `Cisco Packet Tracer` `VLANs` `EtherChannel` `DHCP`
 
 **Midlands Tech Network Configuration**
-Configured a network for a HQ plus branch office setup (Birmingham, London, Manchester), covering VLANs, EtherChannel, DHCP, and inter-VLAN routing.
+Configured a network for a HQ plus branch office setup (Birmingham, London, Manchester), covering VLANs, EtherChannel, DHCP, and inter-VLAN routing using packet tracer.
 `Cisco Packet Tracer` `VLANs` `DHCP`
 
 **Cybersecurity Report on Metasploitable 2 and Kali**
