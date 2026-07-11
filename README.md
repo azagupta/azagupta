@@ -4,13 +4,13 @@
 
 <h1 align="center">StrawHat_Aza</h1>
 <h3 align="center">Cyber Security Graduate — First Class Honours</h3>
-<p align="center"><sub>🎩 One straw hat, one crew, one goal: SOC Analyst.</sub></p>
+<p align="center"><sub>🎩 One strawhat, one man crew, one goal: Be the best their is.</sub></p>
 
 <br>
 
 ## About
 
-Recent BSc (Hons) Cyber Security graduate (First Class, 74.56%) currently building out detection engineering and offensive security skills while training as an Infrastructure Technician. Actively looking for SOC Analyst / Cybersecurity roles.
+Recent BSc (Hons) Cyber Security graduate currently building out detection engineering and offensive security skills while training as an Infrastructure Technician. Actively looking for SOC Analyst / Cybersecurity roles.
 
 ## Projects
 
