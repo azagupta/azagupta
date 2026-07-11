@@ -9,7 +9,7 @@
 
 ## About
 
-Recent BSc (Hons) Cyber Security graduate (First Class, 74.56%) currently building out detection engineering and offensive security skills while training as an Infrastructure Technician. Actively looking for SOC Analyst / Cybersecurity roles.
+Recent BSc (Hons) Cyber Security graduate (First Class, 74.56%) currently building out detection engineering and offensive security skills, and completing the Infrastructure Technician Level 3 course with iMeta. Actively looking for SOC Analyst / Cybersecurity roles.
 
 ## Projects
 
@@ -32,3 +32,4 @@ Python + OpenCV + MediaPipe build featuring Air Canvas, an Invisible Cloak, a dr
 ## Contact
 
 [LinkedIn](https://linkedin.com/in/aryan-gupta-260b72195)
+
