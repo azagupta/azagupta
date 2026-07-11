@@ -3,8 +3,7 @@
 </p>
 
 <h1 align="center">StrawHat_Aza</h1>
-<h3 align="center">Cyber Security Graduate â€” First Class Honours</h3>
-<p align="center"><sub>ðŸŽ© One straw hat, one crew, one goal: SOC Analyst.</sub></p>
+<h3 align="center">Cyber Security Graduate First Class Honours</h3>
 
 <br>
 
