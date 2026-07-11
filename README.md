@@ -4,7 +4,7 @@
 
 <h1 align="center">StrawHat_Aza</h1>
 <h3 align="center">Cyber Security Graduate - First Class Honours</h3>
-<p align="center"><sub>🎩 One straw hat, one crew, one goal: SOC Analyst.</sub></p>
+<p align="center"><sub>🎩 One straw hat, one man crew, one goal: Be the best their is.</sub></p>
 
 <br>
 
