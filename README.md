@@ -8,9 +8,11 @@
 
 <br>
 
-## About
+## About Me
 
-Recent BSc (Hons) Cyber Security graduate (First Class, 74.56%) currently building out detection engineering and offensive security skills, and completing the Infrastructure Technician Level 3 course with iMeta. Actively looking for SOC Analyst / Cybersecurity roles.
+Cyber Security graduate with a First Class Honours degree.
+
+Outside of that I like coding random projects for fun, and I'm into swimming, new to martial arts, and love puzzle and story based games
 
 ## Projects
 
