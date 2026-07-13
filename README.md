@@ -14,7 +14,11 @@ Cyber Security graduate with a First Class Honours degree.
 
 Outside of that I like coding random projects for fun, and I'm into swimming, new to martial arts, and love puzzle and story based games
 
-## Projects
+## Projects 
+
+**QuickRepoDeleter**
+Browser-based bulk GitHub repo deletion tool. Authenticate with a personal access token, multi-select repos, confirm once, gone. Fully client-side, no backend, token never leaves the browser session.
+`JavaScript` `GitHub API` `OAuth`
 
 **SOC Home Lab**
 End-to-end detection stack: Wazuh 4.12, Sysmon (sysmon-modular config), TheHive 5.5 in Docker, deployed on Ubuntu 24.04.
