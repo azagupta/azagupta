@@ -4,7 +4,7 @@
 
 <h1 align="center">Aryan Gupta</h1>
 <h3 align="center">Cyber Security Graduate - First Class Honours</h3>
-<p align="center"><sub>🎩 One straw hat, one man crew, one goal: Be the best their is.</sub></p>
+<p align="center"><sub>🎩 Be the best their is and never stop learning.</sub></p>
 
 <br>
 
