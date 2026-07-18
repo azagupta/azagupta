@@ -10,9 +10,15 @@
 
 ## About Me
 
+
 Cyber Security graduate with a First Class Honours degree.
 
 Outside of that I like coding random projects for fun, and I'm into swimming, new to martial arts, and love puzzle and story based games
+
+## My CV
+
+https://github.com/azagupta/CV
+
 
 ## Projects 
 
