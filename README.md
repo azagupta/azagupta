@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./profile-banner.jpeg" width="260" alt="StrawHat_Aza" />
-</p>
 
 <h1 align="center">Aryan Gupta</h1>
 <h3 align="center">Cyber Security Graduate - First Class Honours</h3>
